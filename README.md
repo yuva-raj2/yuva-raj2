@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning in University College of Engineering,Anna University,BIT Campus,Trichy.I'm a B.E Computer Science and Engineering Student-4th year
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me.You can reach me on linkedin
-
+- You can contact me on yuvaarun0996@gmail.com
 <!---
 yuva-raj2/yuva-raj2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
